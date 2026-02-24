@@ -36,7 +36,7 @@ I am a passionate Data Analyst based in Cairo, Egypt, dedicated to solving compl
 
 ### 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayamwahdan&show_icons=true&theme=radical" alt="Hayam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hayamwahdan&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Hayam's GitHub stats" />
 </p>
 
 ---
