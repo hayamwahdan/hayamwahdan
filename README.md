@@ -122,7 +122,7 @@ An end-to-end inventory intelligence system focused on demand forecasting, inven
 
 **Tech:** Python · Machine Learning · FastAPI · React/TypeScript · Streamlit
 
-🔗 [GitHub Repository](#)
+🔗 [GitHub Repository](https://github.com/digilians-hnh/VENTORA)
 
 ---
 
