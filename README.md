@@ -14,7 +14,6 @@ end-to-end data applications.
 📍 Cairo, Egypt  
 📧 hayamm.whdan@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/hayamwahdan)  
-💻 [GitHub](https://github.com/hayamwahdan)
 
 ---
 
@@ -241,37 +240,20 @@ as the analysis itself.
 
 ---
 
-# 📌 How I Approach Data
+## 📌 How I Approach Data
 
-```text
-Business Question
-       ↓
-Data Preparation
-       ↓
-Exploratory Analysis
-       ↓
-Modeling / BI
-       ↓
-Insight
-       ↓
-Decision
+**Business Question** → **Data Preparation** → **Exploratory Analysis** → **Modeling / BI** → **Insight** → **Decision**
 
-I believe good data work should go beyond producing numbers or charts.
-
-The goal is to make the result **clear enough to understand, reliable enough to trust, and useful enough to act on.**
+> Good data work should go beyond producing numbers or charts.
+>
+> The goal is to make the result **clear enough to understand, reliable enough to trust, and useful enough to act on.**
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
-💼 **LinkedIn:**
-https://linkedin.com/in/hayamwahdan
-
-💻 **GitHub:**
-https://github.com/hayamwahdan
-
-📧 **Email:**
-[hayamm.whdan@gmail.com](mailto:hayamm.whdan@gmail.com)
+💼 **LinkedIn:** [hayamwahdan](https://linkedin.com/in/hayamwahdan)  
+📧 **Email:** [hayamm.whdan@gmail.com](mailto:hayamm.whdan@gmail.com)
 
 ---
 
