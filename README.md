@@ -98,7 +98,7 @@ or a model, but becomes something people can actually use to make better decisio
 ### AI Data Analyst — Digilians
 
 **Digital Pioneers Initiative — MCIT Egypt**  
-*Cairo, Egypt · Dec 2025 – Present*
+*Cairo, Egypt · Dec 2025 – sep 2026*
 
 - Delivered end-to-end **ML and BI pipelines across 400K+ records**, turning raw
   datasets into decision-ready insights for stakeholder reporting.
